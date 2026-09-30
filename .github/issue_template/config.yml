@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Alantec Support
+    url: https://github.com/alantec
+    about: Please reach out for architectural support and guidance.
